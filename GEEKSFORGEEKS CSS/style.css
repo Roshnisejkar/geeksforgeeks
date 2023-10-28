@@ -1,0 +1,48 @@
+*{
+    margin: 0; padding: 0;
+}
+
+
+.textcenter{
+    text-align: center;
+    margin-top: 120px;
+    color:green;
+}
+
+
+
+.header1{
+    width: 300%; height :500px; background-size:border-box;
+    background-attachment: fixed;;
+    background: url('https://thumbs.dreamstime.com/b/incredibly-beautiful-sunset-sun-lake-sunrise-landscape-panorama-nature-sky-amazing-colorful-clouds-fantasy-design-115177001.jpg');
+}
+
+.paregraph1{
+    background-color: black;color: white;
+    padding: 20px; text-align: center;
+}
+
+
+.header2{
+    width: 300%; height :500px; background-size:border-box;
+    background-attachment: fixed;;
+}
+
+.paregraph2{
+    background-color: black;color: white;
+    padding: 20px; text-align: center;
+}
+
+.header3{
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj2D7oyXyVjFAf8RtfQj7fM4Nxa_5GNpoBmA&usqp=CAU');
+    width: 300%; height :500px; background-size:border-box;
+    background-attachment: fixed;;
+}
+.paregraph3{
+    background-color: black;color: white;
+    padding: 20px; text-align: center;
+}
+
+
+
+
